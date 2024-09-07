@@ -1,2 +1,3 @@
 # Sigma Web Dev Journey
- All Source Code of 
+ All Source Code of my Web Dev Journey.
+ 
